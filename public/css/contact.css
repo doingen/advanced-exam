@@ -1,0 +1,70 @@
+.wrapper{
+  margin: 20px auto;
+  width: 60%;
+}
+
+.title{
+  text-align: center;
+  font-size: 2em;
+}
+
+.title-text {
+  font-size: 2em;
+}
+
+.form{
+  padding: 30px;
+}
+
+.form_item{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0;
+}
+
+.form_input{
+  width: 70%;
+  height: 20px;
+}
+
+.box{
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.form_label_name{
+  transform: translateY(25%);
+}
+
+.form_input_name{
+  display: flex;
+  justify-content: space-between;
+}
+
+.form_input_lastname, .form_input_firstname{
+  width: 50%;
+}
+
+.form_input_lastname {
+  margin-right: 10%;
+}
+
+.post_input {
+  display: flex;
+  justify-content: space-between;
+}
+
+.postmark{
+  margin: 0 auto;
+  font-weight: bold;
+  transform: translateY(10%);
+}
+
+.form_input_postcode{
+  width: 95%;
+}
+
+.form_button{
+  text-align: center;
+}
+
